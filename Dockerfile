@@ -1,5 +1,5 @@
 # Pull base image 
-# added for testing
+# added for testing puropse
 From tomcat:8-jre8 
 
 # Maintainer 
