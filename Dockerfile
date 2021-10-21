@@ -1,5 +1,5 @@
 # Pull base image 
-# added for testing purpose
+# added for testing
 From tomcat:8-jre8 
 
 # Maintainer 
